@@ -1,0 +1,16 @@
+{
+  "name": "MultiShuffle",
+  "short_name": "MultiShuffle",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b100c",
+  "theme_color": "#101710",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
